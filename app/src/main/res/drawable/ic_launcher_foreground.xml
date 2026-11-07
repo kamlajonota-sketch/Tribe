@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Map Pin at Top Center (Mint Accent) -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M54,26 C49.58,26 46,29.58 46,34 C46,39.5 54,46 54,46 C54,46 62,39.5 62,34 C62,29.58 58.42,26 54,26 Z M54,36.5 C52.62,36.5 51.5,35.38 51.5,34 C51.5,32.62 52.62,31.5 54,31.5 C55.38,31.5 56.5,32.62 56.5,34 C56.5,35.38 55.38,36.5 54,36.5 Z" />
+
+    <!-- Front Mountain Peak (Pure White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48 L32,78 L76,78 Z" />
+
+    <!-- Mountain Ridge / Shadow Line -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M54,48 L54,78 L76,78 Z" />
+
+    <!-- Left Secondary Peak -->
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M38,58 L24,78 L48,78 Z" />
+
+    <!-- Right Secondary Peak -->
+    <path
+        android:fillColor="#6EE7B7"
+        android:pathData="M70,58 L58,78 L84,78 Z" />
+</vector>

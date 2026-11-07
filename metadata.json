@@ -1,0 +1,6 @@
+{
+  "name": "TRIBE",
+  "description": "Travel Together. Explore More. Plan trips, discover destinations, and explore Bangladesh and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
